@@ -54,7 +54,7 @@
 
 1.  **克隆仓库：**
     ```bash
-    git clone https://github.com/你的GitHub用户名/你的仓库名称.git
+    git clone https://github.com/Li-Zhuo-Ran/realtime-translation-widget.git
     cd 你的仓库名称
     ```
 2.  **进入后端目录并安装依赖：**
